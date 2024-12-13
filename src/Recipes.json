@@ -1,0 +1,51 @@
+[
+    {
+        "image": "./recipes-imge-one.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-two.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-three.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-four.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-five.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-six.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-seven.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      },
+      {
+        "image": "./recipes-imge-eight.png",
+        "Discription": "Big and Juicy Wagyu Beef Cheeseburger",
+        "time": "30 Minutes",
+        "title": "Snack"
+      }
+      
+]
